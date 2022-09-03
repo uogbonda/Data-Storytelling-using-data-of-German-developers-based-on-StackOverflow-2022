@@ -87,6 +87,17 @@ The Developers have the following educational level:
 - 6 never completed education.
 - 5 have Elementary school certificate.
 
+#### What is their employment status and how satisfied are the developers with their job?
+The information gathered from the dataframe of employment and job satisfaction, most provided an answer. The number of developers who provided their job satisfaction answers are 2572 while 298 did not provide an answer.
+
+Data acquisition was performed. Converting strings to numbers. 
+Slightly satisfied - 5.
+Very satisfied - 4.
+Neither satisfied nor dissatisfied - 3.
+Slightly dissatisfied - 2.
+Very dissatisfied - 1.
+
+
 
 
 ## Data_Visualization

@@ -7,7 +7,7 @@ Analysizing the Stackoverflow Survey
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [German Developers](#german developers)
+* [German_Developers](#german_developers)
 * [Data_Visualization](#data_visualization)
 
 

@@ -38,6 +38,21 @@ The following are Python libraries used:
 - Matplotlib
 
 
+## German Developers
+
+There were 83,439 participants in the survey. 2877 participants were Germans. The analysis was based on age, job satisfaction, database, language etc. Some of the developers did not give their opinion of some of the information needed. 
+
+### German Developers Report
+
+2877 German based developers took the survey. Specifically, analysizing "German developers by profession".
+
+![](Stackflow%20images/age.png)
+
+![](Stackflow%20images/categories.png)
+
+![](Stackflow%20images/first.png)
+
+![](Stackflow%20images/status.png)
 
 ## Data_Visualization
 
@@ -50,21 +65,6 @@ The following are Python libraries used:
 ![](Stackflow%20images/status.png)
 
 
-## German Developers
-
-Out the total number of people that took the survey were 83,439, 2877 were Germans.
-
-### German Developers Report
-
-2877 German based developers took the survey. Specifically, analsizing "German developers by profession".
-
-![](Stackflow%20images/age.png)
-
-![](Stackflow%20images/categories.png)
-
-![](Stackflow%20images/first.png)
-
-![](Stackflow%20images/status.png)
 
 
 

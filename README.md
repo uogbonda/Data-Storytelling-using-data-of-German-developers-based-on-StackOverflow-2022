@@ -87,6 +87,13 @@ The Developers have the following educational level:
 - 6 never completed education.
 - 5 have Elementary school certificate.
 
+#### How important is a formal education, such as a university degree in computer science, to your career?
+- 750 responded that is fairly important.
+- 677 responded that is somewhat important.                    
+- 600 responded that is very important.
+- 412 responded that is not at all important/not necessary.   
+- 181 responded that is critically important.                  
+
 #### What is their employment status and how satisfied are the developers with their job?
 The information gathered from the dataframe of employment and job satisfaction, most provided an answer. The number of developers who provided their job satisfaction answers are 2572 while 298 did not provide an answer.
 

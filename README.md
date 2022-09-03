@@ -130,20 +130,52 @@ The top 5 languages German Developers work with:
 - Java.
 - Python.
 
-## Data_Visualization
+#### Do the German developers have a Stack Overflow account?
+- Yes: 2300.
+- No: 286.
+- Not sure/can't remember: 91.
 
-![](Stackflow%20images/age.png)
+#### Do you consider yourself a member of the Stack Overflow community?
+- Yes, somewhat: 790.
+- No, not really: 776.
+- Neutral: 504.
+- Yes, definitely: 326.
+- No, not at all: 242.
+- Not sure: 27.
 
-![](Stackflow%20images/categories.png)
+#### How frequently do you learn a new language or framework?
+- Once a year: 1042.
+- Every few months: 891.
+- Once every few years: 687.
+- Once a decade: 42.
 
-![](Stackflow%20images/first.png)
+#### How frequently would you say you visit Stack Overflow?
+- Daily or almost daily: 886.
+- Multiple times per day: 861.
+- A few times per week: 610.
+- A few times per month or weekly: 281.
+- Less than once per month or monthly: 38.
 
-![](Stackflow%20images/status.png)
+#### Desired Webframe 
+The top 5 webframes desired to work with:
+- React.js .
+- Vue.js .
+- Angular..
+- Spring
+- ASP.NET Core.
 
-
-
-
-
+#### Desired Platforms
+The top 10 platforms desired to work with next year:
+- Linux.
+- Docker.
+- Windows.
+- Kubernetes.
+- Raspberry Pi.
+- AWS.
+- Android.
+- MacOS.
+- Microsoft Azure.
+- Google Cloud Platform.
 
 
 

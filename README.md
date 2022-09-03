@@ -50,6 +50,22 @@ The following are Python libraries used:
 ![](Stackflow%20images/status.png)
 
 
+## German Developers
+
+Out the total number of people that took the survey were 83,439, 2877 were Germans.
+
+### German Developers Report
+
+2877 German based developers took the survey. Specifically, analsizing "German developers by profession".
+
+![](Stackflow%20images/age.png)
+
+![](Stackflow%20images/categories.png)
+
+![](Stackflow%20images/first.png)
+
+![](Stackflow%20images/status.png)
+
 
 
 

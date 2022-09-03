@@ -1,7 +1,7 @@
 # Data-Storytelling-using-data-of-German-developers-based-on-StackOverflow-2022
 
-# Stack-Overflow-Survey-2020
-Analysizing the Stackoverflow Survey
+## German Developers based on StackOverflow 2020 Developers Survey
+Scenario: A Competitor platform (ADMAC) wants to know the results of 2020 developers survey based on German developers. The company needs detailed information from the survey to compare with their survey and see what developers like on a platform in order to make some decisions on how best to get developers to have an account on their own platform.
 
 
 ## Table of Content
@@ -14,9 +14,11 @@ Analysizing the Stackoverflow Survey
 ## General info
 Get information from the data set:
 
-- What kind of information does the survey contain?
-- Which variables are particularly interesting to you and why?
-- Analyze the salary and how different variables are correlating with it.
+- Create a new dataframe for only German developers from the existing survey dataframe.
+- Analyzing this year's developer survey results to find interesting facts and directions in the software development community.
+- Percentage of German developers who took the survey.
+- Know developers who noticed a change in the StackOverflow platform.
+- What is the Age distribution?
 
 ### General information on the survey
 - The total number of people that took the survey were 83,439.

@@ -90,15 +90,38 @@ The Developers have the following educational level:
 #### What is their employment status and how satisfied are the developers with their job?
 The information gathered from the dataframe of employment and job satisfaction, most provided an answer. The number of developers who provided their job satisfaction answers are 2572 while 298 did not provide an answer.
 
-Data acquisition was performed. Converting strings to numbers. 
-Slightly satisfied - 5.
-Very satisfied - 4.
+Data acquisition was performed. Converting strings to numbers. The job satisfaction was coverting into the following:
+Very satisfied - 5.
+Slightly satisfied - 4.
 Neither satisfied nor dissatisfied - 3.
 Slightly dissatisfied - 2.
 Very dissatisfied - 1.
 
+![](German%20dev%20Stachflow/employjob.png)
 
+Taking out the missing information on job satisfaction, there is only 3 employment status who provided their job satisfaction:
+- 2175 are Employed full-time.                                     
+- 212 are Independent contractor, freelancer, or self-employed.     
+- 185 are Employed part-time.  
+                                    
+ **Conclusion**:
+ - The developers who work full-time and are very satisfied with their job is 737 out of 2175.
+ - The developers who are either an independent contractor, freelancer, or self-employed and are very satisfied with their job is 98 out of 212.
 
+#### Three most popular Database worked with.
+Filtered Database worked with. Missing data has been removed. The percentage of the German developers who gave details of the database worked with is **79.46%**.
+Now we have correct numbers od database worked with and the **three(3)** most popular are:
+- MySQL.
+- PostgreSQl.
+- Microsoft SQL Server.
+
+#### The top 5 languages which German developers work with.
+The top 5 languages German Developers work with:
+- JavaScript.
+- HTML/CSS.
+- SQL.
+- Java.
+- Python.
 
 ## Data_Visualization
 

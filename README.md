@@ -40,7 +40,7 @@ The following are Python libraries used:
 
 ## German Developers
 
-There were 83,439 participants in the survey. Out of the 83,439 participants, **2877 (4.46%)** were Germans. The analysis was based on age, job satisfaction, database, language etc. Some of the developers did not give their opinion of some of the information needed. From the questions of the survey, we use it to give more details.
+There were **83,439 participants** in the survey. Out of the 83,439 participants, **2877 (4.46%) were Germans**. The analysis was based on age, job satisfaction, database, language etc. Some of the developers did not give their opinion of some of the information needed. From the questions of the survey, we use it to give more details.
 
 ### German Developers Report
 

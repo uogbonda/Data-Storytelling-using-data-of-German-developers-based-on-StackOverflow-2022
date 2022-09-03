@@ -47,13 +47,20 @@ There were **83,439 participants** in the survey. Out of the 83,439 participants
 2877 German based developers took the survey. Specifically, analysizing "German developers by profession".
 
 #### How welcomed the German Developers felt on Stack Overflow compared to last year?
-The **missing data for this is 331**. The following are the answers obtained from the survey:
-- Just as welcome now as I felt last year                    2005
-- Somewhat less welcome now than last year                    187
-- Somewhat more welcome now than last year                    145
-- A lot less welcome now than last year                        98
-- Not applicable - I did not use Stack Overflow last year      68
-- A lot more welcome now than last year                        43
+The **missing data for this is 331** which is 11.5%. The following are the answers obtained from the survey:
+- Just as welcome now as I felt last year                    2005.
+- Somewhat less welcome now than last year                    187.
+- Somewhat more welcome now than last year                    145.
+- A lot less welcome now than last year                        98.
+- Not applicable - I did not use Stack Overflow last year      68.
+- A lot more welcome now than last year                        43.
+
+#### Reactions concerning the survey 
+The number of German developers by profession from the given data had the opinion as follows:
+- 1785 developers chose "Easy".
+- 725 developers chose "Neither easy nor difficult"
+- 350 developers did not select or omitted answering the question (12.2%).
+- 17 found it difficult.
 
 
 ![](Stackflow%20images/age.png)

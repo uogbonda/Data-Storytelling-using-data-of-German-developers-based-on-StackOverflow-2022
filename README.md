@@ -7,7 +7,8 @@ Scenario: A Competitor platform (ADMAC) wants to know the results of 2020 develo
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [German_Developers](#german_developers)* [Data_Visualization](#data_visualization)
+* [German_Developers](#german_developers)
+* [Report_on_German_developers](#report_on_german_developers)
 
 
 ## General info
@@ -41,7 +42,7 @@ The following are Python libraries used:
 
 There were **83,439 participants** in the survey. Out of the 83,439 participants, **2877 (4.46%) were Germans**. The analysis was based on age, job satisfaction, database, language etc. Some of the developers did not give their opinion of some of the information needed. From the questions of the survey, we use it to give more details.
 
-### German Developers Report
+## Report_on_German_developers
 
 2877 German based developers took the survey. Specifically, analysizing "German developers by profession".
 

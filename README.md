@@ -60,7 +60,7 @@ The **missing data for this is 331** which is 11.5%. The following are the answe
 
 #### Reactions concerning the survey 
 The number of German developers by profession from the given data had the opinion as follows:
- ![](German%20dev%20Stachflow/particatesurvey.png)
+ ![](German%20dev%20Stackflow/particatesurvey.png)
 - 1785 developers chose "Easy".
 - 725 developers chose "Neither easy nor difficult"
 - 350 developers did not select or omitted answering the question (12.2%).

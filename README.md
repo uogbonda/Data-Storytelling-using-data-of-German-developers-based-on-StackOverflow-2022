@@ -48,7 +48,9 @@ There were **83,439 participants** in the survey. Out of the 83,439 participants
 
 #### How welcomed the German Developers felt on Stack Overflow compared to last year?
 The **missing data for this is 331** which is 11.5%. The following are the answers obtained from the survey:
-![](German%20dev%20Stachflow/feelonstackflow.png)
+
+![](German%20dev%20Stackflow/feelonstackflow.png)
+
 - Just as welcome now as I felt last year were 2005.
 - Somewhat less welcome now than last year were 187.
 - Somewhat more welcome now than last year were 145.
@@ -70,7 +72,7 @@ The number of German developers by profession from the given data had the opinio
 The **average age of German developers is 32 years** and the percentage of developers who provided their age is **80.74%**. The number of missing age in the survey is **19.26%**.
 The age data visualization is below:
 
-![](German%20dev%20Stachflow/agedist.png)
+![](German%20dev%20Stackflow/agedist.png)
 
 **Conclusion**:
 If age is essential irrespective of 554 missing data then my suggestion would be targetting German developers in the age range of 20 to 45 years.
@@ -104,7 +106,7 @@ Neither satisfied nor dissatisfied - 3.
 Slightly dissatisfied - 2.
 Very dissatisfied - 1.
 
-![](German%20dev%20Stachflow/employjob.png)
+![](German%20dev%20Stackflow/employjob.png)
 
 Taking out the missing information on job satisfaction, there is only 3 employment status who provided their job satisfaction:
 - 2175 are Employed full-time.                                     

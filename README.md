@@ -70,14 +70,24 @@ The number of German developers by profession from the given data had the opinio
 The **average age of German developers is 32 years** and the percentage of developers who provided their age is **80.74%**. The number of missing age in the survey is **19.26%**.
 The age data visualization is below:
 
-
 ![](German%20dev%20Stachflow/agedist.png)
 
-![](Stackflow%20images/categories.png)
+**Conclusion**:
+If age is essential irrespective of 554 missing data then my suggestion would be targetting German developers in the age range of 20 to 45 years.
 
-![](Stackflow%20images/first.png)
+#### What is their Educational level?
+The Developers have the following educational level:
+- 965 have Masters degree.
+- 840 have Bachelors degree.
+- 311 have studied but no degree.
+- 308 have Secondary school certifcate.
+- 110 have Doctoral degree.
+- 80 have Associate degree.
+- 40 have Professional degree.
+- 6 never completed education.
+- 5 have Elementary school certificate.
 
-![](Stackflow%20images/status.png)
+
 
 ## Data_Visualization
 

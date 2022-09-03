@@ -7,8 +7,7 @@ Scenario: A Competitor platform (ADMAC) wants to know the results of 2020 develo
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [German_Developers](#german_developers)
-* [Data_Visualization](#data_visualization)
+* [German_Developers](#german_developers)* [Data_Visualization](#data_visualization)
 
 
 ## General info
